@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mefiel
 - 👀 I’m interested in learning Programming Languages
-- 📫 How to reach me: @gatusmefielann@gmail.com | https://www.linkedin.com/in/mefiel-ann-gatus-592275298/
+- 📫 How to reach me: @gatusmefielann@gmail.com | www.linkedin.com/in/mefiel-ann-gatus-592275298/
 
 
 <!---
